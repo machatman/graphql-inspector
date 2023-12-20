@@ -63,8 +63,8 @@
     "graphql-request": "3.3.0",
     "husky": "4.3.0",
     "immer": "7.0.15",
-    "lerna": "3.22.1",
-    "probot": "10.14.1",
+    "lerna": "6.5.0",
+    "probot": "12.3.3",
     "shelljs": "0.8.4"
   },
   "workspaces": [

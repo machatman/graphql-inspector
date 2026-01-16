@@ -62,7 +62,7 @@
     "@graphql-inspector/introspect-command": "0.0.0-PLACEHOLDER",
     "@graphql-inspector/json-loader": "0.0.0-PLACEHOLDER",
     "@graphql-inspector/loaders": "0.0.0-PLACEHOLDER",
-    "@graphql-inspector/serve-command": "0.0.0-PLACEHOLDER",
+    "@graphql-inspector/serve-command": "1.30.1",
     "@graphql-inspector/similar-command": "0.0.0-PLACEHOLDER",
     "@graphql-inspector/url-loader": "0.0.0-PLACEHOLDER",
     "@graphql-inspector/validate-command": "0.0.0-PLACEHOLDER",
